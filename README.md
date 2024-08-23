@@ -2,6 +2,8 @@
 
 Flux Image Generator is a Streamlit web application that enables users to generate images using the Flux AI model. This powerful tool offers a user-friendly interface for creating images based on text prompts, with a standout feature of batch image generation. Users can efficiently produce multiple images simultaneously, streamlining the creative process and saving valuable time.
 
+![](http://blog-bucket-20240321.oss-cn-hongkong.aliyuncs.com/blog/h2f4a8.png)
+
 ## Features
 
 - Choose between different Flux models
